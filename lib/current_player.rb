@@ -4,6 +4,6 @@ def turn_count(board)
     if val == "X" || val == "O"
       counter += 10
     else
-      
+  end
   end
 end
